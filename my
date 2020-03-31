@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+int sum1,sum2;
+cout<<"enter two number"<<endl;
+cin>>sum1>>sum2;
+cout<<sum1+sum2;
+return 0;
+}
